@@ -4,9 +4,9 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vin%C3%ADcius-pina-ferreira-a58b46380/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-pina-ferreira-a58b46380/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuspina64@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/VINICIUSPINAFERREIRA/Downloads/CV/Profile.pdf)
+[![Currículo]()](file:///C:/Users/VINICIUSPINAFERREIRA/Downloads/CV/Profile.pdf)
  
 ---
  
