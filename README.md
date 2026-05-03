@@ -39,11 +39,11 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](./algoritmo-auditoria-dados/) |
-| **Engenharia de Soluções Lógicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-solucoes-logicas/) |
+| **Engenharia de Soluções Lógicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
 | **Modularização** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](./modularizacao/) |
-| **Traduzindo Lógica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./traduzindo-logica-python/) |
-| **Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](./engenharia-contexto-logica-fisica/) |
-| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emojis-dados/) |
+| **Traduzindo Lógica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./traduzindo-logica-para-python/) |
+| **Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](./engenharia-de-contexto-e-logica-fisica/) |
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emojis-com-dados/) |
  
 ---
  
