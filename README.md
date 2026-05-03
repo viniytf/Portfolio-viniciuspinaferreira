@@ -39,7 +39,7 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **O Algoritmo de Auditoria de Dados** | Algoritmo em Python para identificar discrepâncias e possíveis anomalias em vendas. | [Ver Projeto](./ex1.py/) |
+| **O Algoritmo de Auditoria de Dados** | Algoritmo em Python para identificar discrepâncias e possíveis anomalias em vendas. | [Ver Projeto](./algoritmo-auditoria-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
