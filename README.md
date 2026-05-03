@@ -36,15 +36,14 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **O Algoritmo de Auditoria de Dados** | Algoritmo em Python para identificar discrepâncias e possíveis anomalias em vendas. | [Ver Projeto](./algoritmo-auditoria-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Algoritmo de Auditoria de Dados** | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](./algoritmo-auditoria-dados/) |
+| **Engenharia de Soluções Lógicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-solucoes-logicas/) |
+| **Modularização** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](./modularizacao/) |
+| **Traduzindo Lógica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./traduzindo-logica-python/) |
+| **Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](./engenharia-contexto-logica-fisica/) |
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emojis-dados/) |
  
 ---
  
